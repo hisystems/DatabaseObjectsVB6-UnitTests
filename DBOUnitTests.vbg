@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=..\DatabaseObjectsVB6\dbo.vbp
+StartupProject=DBOUnitTests.vbp
